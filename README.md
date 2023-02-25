@@ -1,4 +1,4 @@
-# restapi_with_mvvm_cleancode_architecture
+# Restapi with MVVM cleancode architecture sample project
 
 A new Flutter project.
 
